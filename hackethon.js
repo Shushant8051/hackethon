@@ -6,5 +6,5 @@ for (var a=0; a<size; a++)
 
 }
 
-console.log(math.max(...maxmin));
-console.log(math.min(...maxmin));
+let value= math.max(...maxmin) + math.min(...maxmin);
+console.log(value);
