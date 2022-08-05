@@ -6,6 +6,5 @@ for (var a=0; a<size; a++)
 
 }
 
-const maxmin = [];
 console.log(math.max(...maxmin));
 console.log(math.min(...maxmin));
